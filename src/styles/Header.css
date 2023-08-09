@@ -1,0 +1,22 @@
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+  }
+  .body-content {
+    padding-top: 60px; 
+  }
+.header-profile{
+    color:white;
+}
+.header-profile-container{
+    border: 1px solid grey;
+    padding:3px 15px;
+    border-radius: 25px;
+}
+.user-icon{
+    margin-right: 3px;
+    margin-top: -3px;
+}

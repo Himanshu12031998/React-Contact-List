@@ -1,0 +1,18 @@
+.total_value{
+    color:gray;
+    font-family: Roboto,sans-serif;
+}
+.font_style{
+    font-family: Roboto,sans-serif;
+}
+.home_search_box{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+.add-btn{
+    display: flex;
+    align-items: center;
+    gap:20px;
+}
