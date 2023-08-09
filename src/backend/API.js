@@ -20,5 +20,5 @@ export function updateContact(id,name,email,phone){
     })
 }
 export function deleteContact(id){
-    return axios.put(`${baseURL}/${id}`)
+    return axios.delete(`${baseURL}/${id}`)
 }
